@@ -2,7 +2,7 @@
 
 This simulation code package is mainly used to reproduce the results of the following paper [1]:
 
-[1] Y. Jin, J. Zhang, C. Huang, L. Yang, and B. Ai, “Multiple residual dense networks for reconfigurable intelligent surfaces cascaded channel estimation”, IEEE Trans. Veh. Technol.,2021.
+[1] Y. Jin, J. Zhang, C. Huang, L. Yang, H. Xiao, B. Ai and Z. Wang, "Multiple Residual Dense Networks for Reconfigurable Intelligent Surfaces Cascaded Channel Estimation," in IEEE Transactions on Vehicular Technology, vol. 71, no. 2, pp. 2134-2139, Feb. 2022.
 
 If you use this simulation code package in any way, please cite the original paper [1] above. 
 
